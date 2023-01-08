@@ -52,7 +52,7 @@ select {
     8. Avoid text overflows
   */
 p,
-h1,
+h2,
 h2,
 h3,
 h4,
@@ -172,7 +172,7 @@ body {
   padding: 1.5rem;
 }
 
-.grid__item:nth-child(2) .right__article h1 {
+.grid__item:nth-child(2) .right__article h2 {
   font-size: 36px;
   padding-bottom: 1rem;
   color: var(--Soft-orange);
@@ -250,7 +250,7 @@ body {
   justify-content: space-between;
 }
 
-.flex__item div h1 {
+.flex__item div h2 {
   font-size: 30px;
   color: var(--Grayish-blue);
 }
